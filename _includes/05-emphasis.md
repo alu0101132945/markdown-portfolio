@@ -1,1 +1,13 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*No se mucho la verdad 🥲*
+*soy una persona que le gusta trabajar en equipo*
+
+**Conozco algunos lenguajes de programación**
+
+como:
+
+* C++
+* Python
+* Javascript
+* Html
+* CSS
+* ruby
