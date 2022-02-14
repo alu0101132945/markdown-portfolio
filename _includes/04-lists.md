@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Comer
+2. Dormir
+3. Salir
+   1. Salir a la playa
+   2. Salir al monte
